@@ -1,0 +1,298 @@
+	
+	body{
+		font-family: Arial,sans-serif;
+		color:#333333;
+		line-height:1.3em;
+		height: 100%;
+		font-size: .9em;
+		margin: 0px;
+		padding: 0px;
+		background-color: 
+		#FF9;/*#FFFF33;*/
+	}
+	
+	p{
+	font-size: 12pt;	
+	}
+	
+	
+	a{
+		color: #006699;
+		text-decoration: none;
+	}
+	
+	a:link{
+		color:   #006699;
+		text-decoration: none;
+	}
+	
+	a:visited{
+		color: #006699;
+		text-decoration: none;
+	}
+	
+	a:hover{
+	color: #006699;
+	text-decoration:underline;
+	font-size: 12pt;
+	}
+	
+	h1{
+	color: red;
+	text-align: center;
+	font-family: Verdana,Arial,sans-serif;
+	font-size: 120%;
+	margin: 0px;
+	padding: 24px 0px 0px 0px;
+	text-decoration: 
+	}
+	
+	h2{
+	 font-family: Arial,sans-serif;
+	 font-size: 114%;
+	 color: #006699;
+	 margin: 0px;
+	 padding: 40px 0px 10px 0px;
+	}
+	
+	h3{
+	 font-family: Arial,sans-serif;
+	 font-size: 100%;
+	 color: #334d55;
+	 margin: 0px;
+	 padding: 0px;
+	}
+	
+	h4{
+	 font-family: Arial,sans-serif;
+	 font-size: 100%;
+	 font-weight: normal;
+	 color: #333333;
+	 margin: 0px;
+	 padding: 0px;
+	}
+	
+	h5{
+	 font-family: Verdana,Arial,sans-serif;
+	 font-size: 100%;
+	 color: #334d55;
+	 margin: 0px;
+	 padding: 0px;
+	}
+	
+	ul{
+	 list-style-type: square;
+	}
+	
+	ul ul{
+	 list-style-type: disc;
+	}
+	
+	ul ul ul{
+	 list-style-type: none;
+	}
+	td	{
+	font-size:13px;
+	}
+		
+			
+	label{
+	 font-family: Arial,sans-serif;
+	 font-size: 100%;
+	 font-weight: bold;
+	 color: #334d55;
+	}
+	
+	.caption{
+		font-size:10px;
+		font-style:italic;
+		color:navy;
+		text-align:center;
+	}
+	
+	.LFMR{
+		font-family:Geneva, Arial, Helvetica, sans-serif;
+		font-size:14px;
+		color:#0000FF;
+	}
+	
+	.blink{
+		text-decoration:blink;
+	}
+	.old{
+		font:Algerian, "Times New Roman", Times, serif;
+		text-shadow:#999999;
+		font-weight:bold;
+		color:#FF0000;
+	}
+		
+	.contacts {
+		line-height:1.5em;
+	}
+	
+	
+	
+	/***********************************************/
+	/* Layout Divs                                 */
+	/***********************************************/
+	#page {
+		   position: absolute;
+		   margin-top:-10px;
+		   left: 50%;
+		   width: 1000px ;
+		   margin-left: -500px ; /* half the width measurement */
+		   padding: 20px 0px 80px 0px;
+		   background-color: #ff9;
+		   min-height: 100%;
+		   
+		   
+	 }   
+	
+	
+/*	#logoleft{
+		background-image:url("Images/logo.png");
+		background-repeat:no-repeat;
+		position:absolute;
+		width:120px;
+		height:140px;
+		float: left;
+		margin-left: 0px;
+	} 
+	
+	#title {
+		   background-image:url("Images/title_2010.png");
+		   background-repeat:no-repeat;
+		   position: absolute;
+		   margin-top: 20px;
+		   height: 120px;
+		   left: 50%;
+		   width: 440px;
+		   margin-left: -220px; }    /* half the width measurement */
+	
+	/*
+	#logoright{
+		background-image:url("Images/logo.png");
+		background-repeat:no-repeat;
+		width:120px;
+		height:140px;
+		float: right;	
+	} */
+	
+	#weather{
+		background-repeat:no-repeat;
+		position:absolute;
+		top: 150px;
+		left:120px;
+		width:160px; height:60px;
+	}
+	
+	#buyat{
+		background-repeat:no-repeat;
+		position:absolute;
+		top: 150px;
+		left:640px;
+		width: 122px; height:60px;
+	}
+	
+	#poems{
+		background-repeat:no-repeat;
+		position:absolute;
+		top: 150px;
+		left:295px;
+		width: 160px; height:60px;
+	}
+	#years{
+		background-repeat:no-repeat;
+		position:absolute;
+		top: 151px;
+		left:300px;
+		width: 160px; height:60px;
+	}
+	
+	#camera{
+		background-repeat:no-repeat;
+		position:absolute;
+		top: 150px;
+		left:470px;
+		width: 160px; height:60px;
+	}
+	
+	#adverts_include{
+		
+		margin-top: 0px;
+		float: right;
+		height: 830px;
+		width: 120px;	
+		background-color: aqua;
+	}
+	
+		
+
+	
+	#advert{
+		background-color: red;
+		background-repeat: no-repeat;
+		position: relative;
+		height:140; width: 100%;
+		
+		
+			}
+	
+	li{	
+	list-style-type: none;
+	margin-top: 17px;
+	}
+			
+		
+		
+	#filmstrip{
+		background-repeat:no-repeat;
+		position:absolute;
+		top: 260px; left:0px;
+	}
+	
+
+	
+	#footer {
+	width:1000px;
+	margin: auto;
+	margin-top: 100
+	0px;
+	height:30px;
+	position:relative;
+	color: black;
+	background:gray;
+	bottom: 0px;
+	text-align: center;
+	padding-top: 5px;
+	
+}
+
+	
+	
+	#blurb{
+	overflow: auto;
+	background-color: blue;
+	text-indent: 30px;
+	text-align: justify;
+	position:relative;
+	color: white;
+	margin-left: 135px;
+	top:30px;
+	width: 700px;
+	height: 820px;	
+	overflow:auto;
+	padding-bottom: 30px; /* must be same height as the footer */
+	}
+	
+	
+	#qrcode{
+	background-image:url(Images/120pxQRCode.png);
+	background-repeat: no-repeat;
+	width: 140px;
+	height: 140px;
+	margin: auto;
+	
+	}
+	 
+	

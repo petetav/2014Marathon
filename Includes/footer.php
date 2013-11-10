@@ -1,0 +1,1 @@
+&copy Lingfield Marathon 2013
