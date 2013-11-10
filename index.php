@@ -37,7 +37,7 @@
 </div>
 	
 <div id="blurb">
-<p class="blurb">Wouldn't it be very nice...</p>
+<p class="blurb">Wouldn't it be very very nice...</p>
 	
 </div>
   
