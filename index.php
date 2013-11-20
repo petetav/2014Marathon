@@ -5,7 +5,7 @@
 <title>New Marathon MAMP test</title>
  <meta name="description" content="">
   <meta name="author" content="">
-  <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+  <MECSS/desktop.cssTA HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
    <script src="js/
    
   modernizr-1.5.min.js"></script>
@@ -18,9 +18,9 @@
 <link rel=stylesheet href="CSS/desktop.css" type="text/css" />
 <link media="screen and (max-width: 800px)" rel="stylesheet"  type="text/css" href="CSS/mobile.css" >
 </head>
-<body>
-
-
+<body >
+"This looks impressive"
+ 
 <div id="page">
 
 <?php include("Includes/header.php"); ?>
@@ -37,7 +37,7 @@
 </div>
 	
 <div id="blurb">
-<p class="blurb">Wouldn't it be very very nice...</p>
+<p class="blurb">Wouldn't it be very nice...</p>
 	
 </div>
   
